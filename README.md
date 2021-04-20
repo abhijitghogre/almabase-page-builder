@@ -1,3 +1,10 @@
+How to run:
+---
+
+`yarn start`
+or
+`npm run start`
+
 Docs:
 ---
 The app uses HTML drag drop functionality.
